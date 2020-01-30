@@ -1,0 +1,27 @@
+[Ident]
+ProductID = 83675
+Version = 1.0
+ShortTitle = STRSIEGE
+UpdateAfter = 4-1-1999
+readme=readme.txt
+PatchVersion=1.0.0.0
+EREGUrl=http://reg.sierra.com/prodreg.htmlw?sku83675
+WebPage = http://www.starsiegeplayers.com
+
+
+[Bookmarks]
+http://www.starsiege.com = The Starsiege Universe Web Site
+http://www.starsiegeplayers.com = Starsiege Players Website
+
+[System Test]
+ScreenWidth = 640
+ScreenHeight = 480
+Colors = 256
+MemKB = 31500
+WinVer = 395
+Wave = 1
+MIDI = 0
+Processor = Pentium-166
+
+[Setup]
+InstallShield=1
