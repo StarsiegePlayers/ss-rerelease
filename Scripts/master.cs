@@ -5,7 +5,7 @@
 
 $Inet::Master1 = "IP:master1.starsiege.io:29000";    // Jenetrix's Master
 $Inet::Master2 = "IP:master2.starsiege.pw:29000";    // Wilzuun's Master
-$Inet::Master3 = "IP:master3.starsiege.io:29000"; 
+$Inet::Master3 = "IP:master3.starsiege.io:29000";    // Jenetrix's Backup Master
 
 // Legacy Master Servers
 // $Inet::Master1 = "IP:ss1m1.masters.dynamix.com:29000";
