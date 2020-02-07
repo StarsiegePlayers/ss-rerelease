@@ -18,32 +18,42 @@
 //the partially censored form no longer matches a word in the list.
 //
 
-$censor::word0    = "bitch";
-$censor::word1    = "cocksucker";
-$censor::word2    = "cock";
-$censor::word3    = "cunt";
-$censor::word4    = "damn";
-$censor::word5    = "dick";
-$censor::word6    = "douchebag";
-$censor::word7    = "faggot";
-$censor::word8    = "asshole";
-$censor::word9    = "motherfucker";
-$censor::word10   = "fuck";
-$censor::word11   = "nigger";
-$censor::word12   = "piss";
-$censor::word13   = "prick";
-$censor::word14   = "pussy";
-$censor::word15   = "rape";
-$censor::word16   = "shit";
-$censor::word17   = "vagina";
-$censor::word18   = "vulva";
-$censor::word19   = "anus";
-$censor::word20   = "anal";
-$censor::word21   = "crap";
-$censor::word22   = "kike";
-$censor::word23   = "penis";
-$censor::word24   = "poop";
-$censor::word25   = "rectum";
-$censor::word26   = "semen";
-$censor::word27   = "sperm";
+
+// Server-crashing Immunity modification
+$censor::word0    = "<r";
+$censor::word1    = "<y";
+$censor::word2    = "<s";
+$censor::word3    = "<l";
+$censor::word4    = "<b";
+
+
+// Original Censored Words
+// $censor::word0    = "bitch";
+// $censor::word1    = "cocksucker";
+// $censor::word2    = "cock";
+// $censor::word3    = "cunt";
+// $censor::word4    = "damn";
+// $censor::word5    = "dick";
+// $censor::word6    = "douchebag";
+// $censor::word7    = "faggot";
+// $censor::word8    = "asshole";
+// $censor::word9    = "motherfucker";
+// $censor::word10   = "fuck";
+// $censor::word11   = "nigger";
+// $censor::word12   = "piss";
+// $censor::word13   = "prick";
+// $censor::word14   = "pussy";
+// $censor::word15   = "rape";
+// $censor::word16   = "shit";
+// $censor::word17   = "vagina";
+// $censor::word18   = "vulva";
+// $censor::word19   = "anus";
+// $censor::word20   = "anal";
+// $censor::word21   = "crap";
+// $censor::word22   = "kike";
+// $censor::word23   = "penis";
+// $censor::word24   = "poop";
+// $censor::word25   = "rectum";
+// $censor::word26   = "semen";
+// $censor::word27   = "sperm";
 
