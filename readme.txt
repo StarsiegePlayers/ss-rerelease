@@ -7,14 +7,14 @@ doing so), and Windows XP by also removing `mem.dll`.
 Thanks to the following individuals for thier contributions:
 Cin_HA Crash Fix                PlagueDog
 Linux Fix                       PlagueDog
-`smackw32.dll` Update           PlagueDog
+smackw32.dll Update             PlagueDog
 Interior Terrain Crash Fix      PlagueDog
 5-Min Crash Fix                 PlagueDog
 Specials Skinning Fix           Jenetrix
 Directory Repathing             Jenetrix
-`master.cs` Update              Jenetrix, Wilzuun
+master.cs Update                Jenetrix, Wilzuun
 CD Audio Patch                  Jenetrix, S-110, hifi
-`3dhardwarecard.cs` Update      S-110
+3dhardwarecard.cs Update        S-110
 OpenGL Terrain Warp Fix         S-110
 Vista Mouse Fix                 NoFiX
 DDoS Crash Fix                  NoFiX
