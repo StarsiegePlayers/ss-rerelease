@@ -1,0 +1,7 @@
+[HKEY_LOCAL_MACHINE\SOFTWARE]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Dynamix]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Dynamix\Starsiege]
+"Path"="."
+"Version"="1.0"
+"InstallType"="Full"
+

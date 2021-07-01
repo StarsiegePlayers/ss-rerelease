@@ -1,27 +1,18 @@
 Starsiege v1.004r 
+10/10/20 Update - Standalone
 
-This build currently targets Windows 8.1 and 10, however you can get it running 
-on Windows 7 & Wine by removing `winmm.dll`, (however you will lose CD Audio by 
-doing so), and Windows XP by also removing `mem.dll`.
+Changes from the 3/14/20 Build include:
+* This build now targets Windows 7, 8.1, 10.
+* winmm.dll has been replaced with DxWnd for better compatibility.
+* addrbook.cs has been added for gameservers not broadcasting to the new master servers.
 
-Thanks to the following individuals for thier contributions:
-Cin_HA Crash Fix                PlagueDog
-Linux Fix                       PlagueDog
-smackw32.dll Update             PlagueDog
-Interior Terrain Crash Fix      PlagueDog
-5-Min Crash Fix                 PlagueDog
-Specials Skinning Fix           Jenetrix
-Directory Repathing             Jenetrix
-master.cs Update                Jenetrix, Wilzuun
-CD Audio Patch                  Jenetrix, S-110, hifi
-3dhardwarecard.cs Update        S-110
-OpenGL Terrain Warp Fix         S-110
-Vista Mouse Fix                 NoFiX
-DDoS Crash Fix                  NoFiX
-No CD Patch                     Drake, Fulgore
-TGA Texture Patch               floodberry
-OpenGL Hooking Fix              surprising_steve
-Server Crash Immunity Patch     Sentinal, Orogorous
+Special Notes:
+* The game now launches in borderless fullscreen, regardless of current monitor resolution, and will scale itself to fit automatically.
+* You will want to change your fullscreen resolution to 1 level down from your monitor's native resolution, to prevent font display issues.
 
-And special thanks to:
-Cpt.Raynor-Macrage, Izzy, Nightfall, Angel-A, ericathesnark, and AlsaValderaan
+Special thanks to:
+* surprising_steve for his contributions to the DxWnd config used in this patch.
+
+Install Instructions:
+* Remove "winmm.dll"
+* Extract contents of .zip file to same folder as Starsiege.exe
