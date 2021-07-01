@@ -1,7 +1,4 @@
-[HKEY_LOCAL_MACHINE\SOFTWARE]
-[HKEY_LOCAL_MACHINE\SOFTWARE\Dynamix]
-[HKEY_LOCAL_MACHINE\SOFTWARE\Dynamix\Starsiege]
-"Path"="."
-"Version"="1.0"
-"InstallType"="Full"
-
+[HKEY_LOCAL_MACHINE\SOFTWARE\Dynamix\Starsiege]
+"Path"="."
+"Version"="1.0"
+"InstallType"="Full"[HKEY_CURRENT_USER\SOFTWARE\Zeus Software\nGlide2]"Backend"="0""Resolution"="0""Aspect"="0""Refresh"="0""Vsync"="1""Gamma"="5""Splash"="0"
